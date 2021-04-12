@@ -18,12 +18,12 @@ for i in the_lines:
         for letter in word:
             if letter in v:
                 vowels += 1
-            elif letter in c:
+            if letter in c:
                 consonants += 1
-        if word.isupper():
-            uppercase += 1
-        elif word.islower():
-            lowercase += 1
+            if letter.isupper():
+                uppercase += 1
+            if letter.islower():
+                lowercase += 1
 
 print("vowels = ",vowels)
 print("consonants = ",consonants)

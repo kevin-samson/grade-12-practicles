@@ -1,7 +1,1 @@
-Codenames is a 2015 card game for 4–8 players designed by Vlaada Chvátil and published by Czech Games Edition.
-Two teams compete by each having a "spymaster" give one-word clues that can point to multiple words on the board.
-The other players on the team attempt to guess their team's words while avoiding the words of the other team.
-In a variant with 2–3 players, one spymaster gives clues to the other player or players.
-THIS IS UPPERCASE
-no lettter
-write this
+In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content
